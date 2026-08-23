@@ -1,0 +1,14 @@
+fastapi[standard]
+uvicorn[standard]
+requests
+beautifulsoup4
+lxml
+nltk
+numpy
+scikit-learn==1.9.0
+pandas
+APScheduler>=3.11,<4
+pytest
+httpx
+feedparser
+python-dotenv

@@ -1,0 +1,41 @@
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+frontend/.env.local
+
+# Python environments and generated files
+venv/
+.venv/
+backend/venv/
+__pycache__/
+*.py[cod]
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+
+# Frontend dependencies and generated build output
+node_modules/
+frontend/node_modules/
+frontend/dist/
+*.tsbuildinfo
+
+# Logs, temporary files, and local tool output
+*.log
+*.tmp
+*.temp
+tmp/
+.codex_qp_render/
+.DS_Store
+Thumbs.db
+
+
+# Tests
+/tests
+tests/
