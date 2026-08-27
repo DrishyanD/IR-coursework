@@ -1,0 +1,4 @@
+id,text,category,source,url
+1,"Example economics document text.",Economics,"Replace with source name","https://example.com/economics"
+2,"Example entertainment document text.",Entertainment,"Replace with source name","https://example.com/entertainment"
+3,"Example politics document text.",Politics,"Replace with source name","https://example.com/politics"

@@ -1,0 +1,600 @@
+{
+  "generated_at_utc": "2026-08-24T02:33:24.107342+00:00",
+  "task1": {
+    "publication_count": 87,
+    "index_stats": {
+      "documents": 87,
+      "vocabulary_size": 4492,
+      "terms_with_postings": 4492,
+      "positional_index_terms": 4271,
+      "sorted_postings": true
+    },
+    "sample_publications": [
+      {
+        "id": 71,
+        "title": "\"Learning to sip tea intelligently”: A phenomenographic exploration of midwifery students’ perceptions of emotional intelligence and its relationship to midwifery",
+        "year": 2026,
+        "authors": [
+          "Kirstie Balding",
+          "Sadie Geraghty",
+          "Sally Pezaro",
+          "Sheena McChlery",
+          "Amanda Timler"
+        ],
+        "publication_url": "https://pureportal.coventry.ac.uk/en/publications/learning-to-sip-tea-intelligently-a-phenomenographic-exploration-/",
+        "author_profile_urls": [
+          "https://pureportal.coventry.ac.uk/en/persons/sally-pezaro/"
+        ],
+        "keywords": [
+          "Emotional intelligence (EI)",
+          "Emotions",
+          "Emotion work",
+          "Midwifery students",
+          "Midwifery",
+          "Phenomenography"
+        ],
+        "output_type": "article",
+        "doi": "10.1016/j.wombi.2026.102188"
+      },
+      {
+        "id": 1,
+        "title": "A Cross-Sectional Study of Postgraduate Students' Mental Well-Being: Exploring the Relationship Between Mental Well-Being, Perceived Stress, Academic Self-Efficacy, and Self-Efficacy for Self-Regulated Learning",
+        "year": 2026,
+        "authors": [
+          "Natalie Bisal",
+          "Celine Brookes-Smith",
+          "Riya Patel",
+          "Sally Sharp",
+          "Deborah Lycett",
+          "Andy Turner",
+          "Maxine E Whelan"
+        ],
+        "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-cross-sectional-study-of-postgraduate-students-mental-well-bein/",
+        "author_profile_urls": [
+          "https://pureportal.coventry.ac.uk/en/persons/celine-brookes-smith/",
+          "https://pureportal.coventry.ac.uk/en/persons/deborah-lycett/",
+          "https://pureportal.coventry.ac.uk/en/persons/andy-turner/",
+          "https://pureportal.coventry.ac.uk/en/persons/maxine-whelan/"
+        ],
+        "keywords": [
+          "Academic self‐efficacy",
+          "Mental well‐being",
+          "Perceived stress",
+          "Self‐efficacy for self‐regulated learning"
+        ],
+        "output_type": "article",
+        "doi": "10.1002/hsr2.72429"
+      },
+      {
+        "id": 2,
+        "title": "A digital yoga-based 'Pause Grow Reflect' intervention for postgraduate researchers: a feasibility randomised controlled trial and embedded qualitative acceptability study",
+        "year": 2026,
+        "authors": [
+          "Natalie Bisal",
+          "Riya Patel",
+          "Nikki Holliday",
+          "Deborah Lycett",
+          "Andy Turner",
+          "Maxine E Whelan"
+        ],
+        "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/",
+        "author_profile_urls": [
+          "https://pureportal.coventry.ac.uk/en/persons/nikki-holliday/",
+          "https://pureportal.coventry.ac.uk/en/persons/deborah-lycett/",
+          "https://pureportal.coventry.ac.uk/en/persons/andy-turner/",
+          "https://pureportal.coventry.ac.uk/en/persons/maxine-whelan/"
+        ],
+        "keywords": [
+          "Acceptability",
+          "Digital health",
+          "Feasibility",
+          "Mental well-being",
+          "Postgraduate students",
+          "Self-care",
+          "Yoga"
+        ],
+        "output_type": "article",
+        "doi": "10.1186/s40814-026-01807-9"
+      },
+      {
+        "id": 58,
+        "title": "A novel digital intervention to support mental and sexual wellbeing after stroke and brain injury: a feasibility randomised controlled trial",
+        "year": 2026,
+        "authors": [
+          "Hayley Wright",
+          "Andy Turner",
+          "David McWilliams",
+          "Aimee Walker-Clarke"
+        ],
+        "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-novel-digital-intervention-to-support-mental-and-sexual-wellbei/",
+        "author_profile_urls": [
+          "https://pureportal.coventry.ac.uk/en/persons/hayley-wright/",
+          "https://pureportal.coventry.ac.uk/en/persons/andy-turner/",
+          "https://pureportal.coventry.ac.uk/en/persons/david-mcwilliams/",
+          "https://pureportal.coventry.ac.uk/en/persons/aimee-walker-clarke/"
+        ],
+        "keywords": [
+          "sexual wellbeing",
+          "acquired brain injury",
+          "life after stroke",
+          "digital self-management"
+        ],
+        "output_type": null,
+        "doi": null
+      },
+      {
+        "id": 62,
+        "title": "A review of remote sensing-based crop yield estimation: machine learning techniques and environmental, algorithmic, and hardware limitations",
+        "year": 2026,
+        "authors": [
+          "Aman Muhammad",
+          "Abdul Sattar Mashori",
+          "Mansoor Jan",
+          "Ziqi Han",
+          "Fuzhong Li",
+          "Sanaullah Jan",
+          "Syed Aziz Shah"
+        ],
+        "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-review-of-remote-sensing-based-crop-yield-estimation-machine-le/",
+        "author_profile_urls": [
+          "https://pureportal.coventry.ac.uk/en/persons/syed-aziz-shah/"
+        ],
+        "keywords": [
+          "limitations in yield estimation",
+          "remote sensing",
+          "crop productivity prediction and assessment",
+          "machine learning based yield estimation",
+          "wireless sensor networks based agriculture"
+        ],
+        "output_type": "article",
+        "doi": "10.3389/fpls.2026.1742689"
+      },
+      {
+        "id": 63,
+        "title": "A verbal and visual account of the perceived influences on health-promoting behaviors among women at midlife navigating perimenopause",
+        "year": 2026,
+        "authors": [
+          "Maxine E Whelan",
+          "Mark W Orme",
+          "Karen Pearce",
+          "Christine Duffy",
+          "Phoebe Lloyd-Evans",
+          "Annice Mukherjee",
+          "Jane Speight",
+          "Robyn Tapp",
+          "David W Dunstan"
+        ],
+        "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-verbal-and-visual-account-of-the-perceived-influences-on-health/",
+        "author_profile_urls": [
+          "https://pureportal.coventry.ac.uk/en/persons/maxine-whelan/",
+          "https://pureportal.coventry.ac.uk/en/persons/christine-duffy/",
+          "https://pureportal.coventry.ac.uk/en/persons/robyn-tapp/"
+        ],
+        "keywords": [
+          "Diet",
+          "Exercise",
+          "Menopause",
+          "Photovoice",
+          "Sedentary behavior",
+          "Sleep",
+          "Women"
+        ],
+        "output_type": "article",
+        "doi": "10.1097/GME.0000000000002785"
+      },
+      {
+        "id": 3,
+        "title": "Age-and sex-specific percentile curves for the Test of Gross Motor Development from 7,263 children aged 3-5 years from 13 countries",
+        "year": 2026,
+        "authors": [
+          "Clarice Martins",
+          "Elizabeth K. Webster",
+          "Vicente Romo-Perez",
+          "Sedigheh Salami",
+          "Luis Lemos",
+          "Michael Duncan",
+          "Farid Bardid",
+          "Amanda E. Staiano",
+          "Anthony Okely",
+          "Antonis Kambas",
+          "Arja Sääkslahti",
+          "Caterina Pesce",
+          "Cristina Honrubia-Montesinos",
+          "Daniele Magistro",
+          "Donna Niemistö",
+          "Fabio Carlevaro",
+          "Francesca Magno",
+          "Glauber Nobre",
+          "Ívina Aires",
+          "Isaac Estevan"
+        ],
+        "publication_url": "https://pureportal.coventry.ac.uk/en/publications/age-and-sex-specific-percentile-curves-for-the-test-of-gross-moto/",
+        "author_profile_urls": [
+          "https://pureportal.coventry.ac.uk/en/persons/michael-duncan/"
+        ],
+        "keywords": [
+          "motor competence",
+          "early childhood",
+          "percentile values",
+          "fundamental motor skills"
+        ],
+        "output_type": "article",
+        "doi": "10.1123/jmld.2025-0151"
+      },
+      {
+        "id": 40,
+        "title": "An open-label, clinical feasibility study of the efficacy of Remdesivir for Long-COVID",
+        "year": 2026,
+        "authors": [
+          "Helen Neilens",
+          "Victoria Allgar",
+          "Kayle-Anne Sands",
+          "Jade Chynoweth",
+          "Amber Lord",
+          "Paigan J. Aspinall",
+          "Helen Hambly",
+          "Anton Barnett",
+          "Lindsay Skipper",
+          "Tom Bewick",
+          "Ian Maidment",
+          "Hairil Abdul Razak",
+          "Ruth Ashton",
+          "David Strain",
+          "Karen Knapp",
+          "Mark A. Faghy"
+        ],
+        "publication_url": "https://pureportal.coventry.ac.uk/en/publications/an-open-label-clinical-feasibility-study-of-the-efficacy-of-remde/",
+        "author_profile_urls": [],
+        "keywords": [
+          "Efficacy",
+          "Safety",
+          "Long COVID",
+          "Remdesivir",
+          "Feasibility",
+          "Covid-19"
+        ],
+        "output_type": "article",
+        "doi": "10.1186/s40814-026-01823-9"
+      },
+      {
+        "id": 41,
+        "title": "Area-Level Medication Demand Prediction Via Multitask Spatial-Temporal Machine Learning",
+        "year": 2026,
+        "authors": [
+          "Xu Wang",
+          "Jiangtao Wang",
+          "Long Chen",
+          "Bruno Arpino",
+          "Om Kurmi",
+          "Dingchang Zheng"
+        ],
+        "publication_url": "https://pureportal.coventry.ac.uk/en/publications/area-level-medication-demand-prediction-via-multitask-spatial-tem/",
+        "author_profile_urls": [
+          "https://pureportal.coventry.ac.uk/en/persons/dingchang-zheng-2/"
+        ],
+        "keywords": [],
+        "output_type": "article",
+        "doi": "10.1145/3816140"
+      },
+      {
+        "id": 26,
+        "title": "Associations of Parental Physical Activity and Physical Fitness With Motor Competence, Physical Fitness, Anthropometry, and 24-Hour Movement Behaviors in Preschool Children: A Cross-Sectional Study",
+        "year": 2026,
+        "authors": [
+          "Loreto Alonso-Martínez",
+          "Robinson Ramírez-Vélez",
+          "Michael Duncan",
+          "Mikel Izquierdo",
+          "Alicia Alonso-Martínez"
+        ],
+        "publication_url": "https://pureportal.coventry.ac.uk/en/publications/associations-of-parental-physical-activity-and-physical-fitness-w/",
+        "author_profile_urls": [
+          "https://pureportal.coventry.ac.uk/en/persons/michael-duncan/"
+        ],
+        "keywords": [],
+        "output_type": "article",
+        "doi": "10.1016/j.jesf.2026.200494"
+      }
+    ],
+    "sample_inverted_index_terms": [
+      {
+        "term": "00",
+        "document_frequency": 2,
+        "postings": {
+          "65": 1,
+          "87": 3
+        }
+      },
+      {
+        "term": "000",
+        "document_frequency": 1,
+        "postings": {
+          "4": 3
+        }
+      },
+      {
+        "term": "0001",
+        "document_frequency": 1,
+        "postings": {
+          "87": 3
+        }
+      },
+      {
+        "term": "001",
+        "document_frequency": 10,
+        "postings": {
+          "49": 2,
+          "37": 4,
+          "45": 1,
+          "72": 3,
+          "82": 7,
+          "35": 2,
+          "13": 1,
+          "65": 1,
+          "68": 1,
+          "87": 2
+        }
+      },
+      {
+        "term": "002",
+        "document_frequency": 1,
+        "postings": {
+          "82": 1
+        }
+      },
+      {
+        "term": "003",
+        "document_frequency": 1,
+        "postings": {
+          "30": 1
+        }
+      },
+      {
+        "term": "004",
+        "document_frequency": 1,
+        "postings": {
+          "26": 1
+        }
+      },
+      {
+        "term": "005",
+        "document_frequency": 3,
+        "postings": {
+          "6": 1,
+          "45": 1,
+          "34": 1
+        }
+      },
+      {
+        "term": "006",
+        "document_frequency": 3,
+        "postings": {
+          "26": 1,
+          "37": 1,
+          "45": 1
+        }
+      },
+      {
+        "term": "007",
+        "document_frequency": 1,
+        "postings": {
+          "72": 1
+        }
+      },
+      {
+        "term": "00719",
+        "document_frequency": 1,
+        "postings": {
+          "87": 3
+        }
+      },
+      {
+        "term": "01",
+        "document_frequency": 4,
+        "postings": {
+          "26": 1,
+          "30": 2,
+          "60": 1,
+          "87": 3
+        }
+      },
+      {
+        "term": "010",
+        "document_frequency": 1,
+        "postings": {
+          "26": 1
+        }
+      },
+      {
+        "term": "01059",
+        "document_frequency": 1,
+        "postings": {
+          "87": 3
+        }
+      },
+      {
+        "term": "012",
+        "document_frequency": 1,
+        "postings": {
+          "30": 1
+        }
+      },
+      {
+        "term": "014",
+        "document_frequency": 1,
+        "postings": {
+          "13": 1
+        }
+      },
+      {
+        "term": "0145",
+        "document_frequency": 1,
+        "postings": {
+          "87": 3
+        }
+      },
+      {
+        "term": "019",
+        "document_frequency": 4,
+        "postings": {
+          "26": 1,
+          "32": 1,
+          "82": 1,
+          "13": 1
+        }
+      },
+      {
+        "term": "01ea1808a",
+        "document_frequency": 1,
+        "postings": {
+          "87": 3
+        }
+      },
+      {
+        "term": "01er1801d",
+        "document_frequency": 1,
+        "postings": {
+          "87": 3
+        }
+      }
+    ],
+    "recent_crawl_runs": [
+      {
+        "id": 2,
+        "started_at": "2026-08-21 11:35:17",
+        "finished_at": "2026-08-21 11:42:47",
+        "status": "completed",
+        "pages_fetched": 90,
+        "pages_failed": 0,
+        "robots_blocked": 0,
+        "publications_seen": 87,
+        "publications_inserted": 84,
+        "publications_updated": 0,
+        "publications_rejected": 0,
+        "index_documents": 87,
+        "error_message": null,
+        "trigger_type": "manual",
+        "publications_changed": 0,
+        "publications_unchanged": 3
+      },
+      {
+        "id": 1,
+        "started_at": "2026-08-21 11:32:39",
+        "finished_at": "2026-08-21 11:32:58",
+        "status": "completed",
+        "pages_fetched": 4,
+        "pages_failed": 0,
+        "robots_blocked": 2,
+        "publications_seen": 3,
+        "publications_inserted": 3,
+        "publications_updated": 0,
+        "publications_rejected": 0,
+        "index_documents": 3,
+        "error_message": null,
+        "trigger_type": "manual",
+        "publications_changed": 0,
+        "publications_unchanged": 0
+      }
+    ]
+  },
+  "task2": {
+    "status": {
+      "trained": true,
+      "model_path": "/mnt/data/final_submission_work/backend/saved_models/kmeans.pkl",
+      "vectorizer_path": "/mnt/data/final_submission_work/backend/saved_models/clustering_vectorizer.pkl",
+      "metadata_path": "/mnt/data/final_submission_work/backend/saved_models/clustering_metadata.json"
+    },
+    "metadata": {
+      "cluster_name_map": {
+        "0": "Entertainment",
+        "1": "Politics",
+        "2": "Economics"
+      },
+      "training_report": {
+        "dataset": {
+          "document_count": 141,
+          "category_counts": {
+            "Economics": 60,
+            "Entertainment": 17,
+            "Politics": 64
+          }
+        },
+        "evaluation": {
+          "document_count": 141,
+          "feature_count": 3898,
+          "cluster_count": 3,
+          "silhouette_cosine": 0.030728592020392003,
+          "adjusted_rand_index": 0.3383497075059038,
+          "normalized_mutual_information": 0.3410387571077775,
+          "homogeneity": 0.3605173852442274,
+          "completeness": 0.32355708125881383,
+          "v_measure": 0.34103875710777753
+        },
+        "cluster_sizes": {
+          "0": 50,
+          "1": 53,
+          "2": 38
+        },
+        "cluster_composition": {
+          "0": {
+            "Economics": 29,
+            "Entertainment": 14,
+            "Politics": 7
+          },
+          "1": {
+            "Economics": 2,
+            "Entertainment": 3,
+            "Politics": 48
+          },
+          "2": {
+            "Economics": 29,
+            "Politics": 9
+          }
+        },
+        "cluster_names": {
+          "0": "Entertainment",
+          "1": "Politics",
+          "2": "Economics"
+        },
+        "top_terms": {
+          "0": [
+            "compani",
+            "extern",
+            "play",
+            "star",
+            "busi",
+            "work",
+            "time",
+            "like",
+            "realli",
+            "uk"
+          ],
+          "1": [
+            "burnham",
+            "minist",
+            "parti",
+            "labour",
+            "prime",
+            "polit",
+            "leader",
+            "elect",
+            "reform",
+            "govern"
+          ],
+          "2": [
+            "price",
+            "iran",
+            "rate",
+            "inflat",
+            "economi",
+            "war",
+            "govern",
+            "cost",
+            "bank",
+            "growth"
+          ]
+        }
+      }
+    }
+  }
+}

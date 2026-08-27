@@ -1,0 +1,1317 @@
+{
+  "summary": {
+    "query_count": 13,
+    "mean_latency_ms": 26.46,
+    "median_latency_ms": 12.468,
+    "mrr": 1.0,
+    "map": 0.9751503405209819,
+    "precision_at_5": 0.5692307692307692,
+    "recall_at_5": 0.9129713423831071,
+    "f1_at_5": 0.6463147963147964,
+    "ndcg_at_5": 0.9713526222663673,
+    "precision_at_10": 0.3384615384615385,
+    "recall_at_10": 0.9638009049773756,
+    "f1_at_10": 0.4529124721432414,
+    "ndcg_at_10": 0.9845904136642635
+  },
+  "queries": [
+    {
+      "query": "well-being",
+      "relevant_count": 6,
+      "retrieved_count": 34,
+      "latency_ms": 89.754,
+      "mrr": 1.0,
+      "average_precision": 1.0,
+      "precision_at_5": 1.0,
+      "recall_at_5": 0.8333333333333334,
+      "f1_at_5": 0.9090909090909091,
+      "ndcg_at_5": 1.0,
+      "precision_at_10": 0.6,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.7499999999999999,
+      "ndcg_at_10": 1.0000000000000002,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-cross-sectional-study-of-postgraduate-students-mental-well-bein/",
+          "title": "A Cross-Sectional Study of Postgraduate Students' Mental Well-Being: Exploring the Relationship Between Mental Well-Being, Perceived Stress, Academic Self-Efficacy, and Self-Efficacy for Self-Regulated Learning",
+          "year": 2026,
+          "score": 0.054995,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/grassroots-football-coaches-knowledge-and-perspectives-of-physica/",
+          "title": "Grassroots football coaches’ knowledge and perspectives of physical literacy to improve child wellbeing through community sport",
+          "year": 2026,
+          "score": 0.053052,
+          "relevant": true
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-novel-digital-intervention-to-support-mental-and-sexual-wellbei/",
+          "title": "A novel digital intervention to support mental and sexual wellbeing after stroke and brain injury: a feasibility randomised controlled trial",
+          "year": 2026,
+          "score": 0.04926,
+          "relevant": true
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-effectiveness-of-community-sports-interventions-on-childrens-/",
+          "title": "The effectiveness of community sports interventions on children’s wellbeing: a systematic review and meta-analysis",
+          "year": 2026,
+          "score": 0.047374,
+          "relevant": true
+        },
+        {
+          "rank": 5,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/canvas-to-change-a-pilot-study-exploring-experiences-of-a-creativ/",
+          "title": "Canvas to Change: a pilot study exploring experiences of a creative arts programme supporting youth mental Health",
+          "year": 2026,
+          "score": 0.042572,
+          "relevant": true
+        },
+        {
+          "rank": 6,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/",
+          "title": "A digital yoga-based 'Pause Grow Reflect' intervention for postgraduate researchers: a feasibility randomised controlled trial and embedded qualitative acceptability study",
+          "year": 2026,
+          "score": 0.040232,
+          "relevant": true
+        },
+        {
+          "rank": 7,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/perceived-needs-of-parents-of-adolescents-with-a-history-of-suici/",
+          "title": "Perceived needs of parents of adolescents with a history of suicide attempts: a qualitative exploration",
+          "year": 2026,
+          "score": 0.034987,
+          "relevant": false
+        },
+        {
+          "rank": 8,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/from-conflicting-outcomes-to-mutual-losses-how-punitive-responses/",
+          "title": "From Conflicting Outcomes to Mutual Losses: How Punitive Responses to Problematic Substance Use Suppress Help‐Seeking and Cause Harm",
+          "year": 2026,
+          "score": 0.031434,
+          "relevant": false
+        },
+        {
+          "rank": 9,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/health-outcomes-in-migrant-survivors-of-sexual-violence-and-abuse/",
+          "title": "Health Outcomes in Migrant Survivors of Sexual Violence and Abuse",
+          "year": 2026,
+          "score": 0.030546,
+          "relevant": false
+        },
+        {
+          "rank": 10,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/evaluating-national-training-provision-in-psychological-therapies/",
+          "title": "Evaluating national training provision in psychological therapies for severe mental health problems: understanding impact and attrition",
+          "year": 2026,
+          "score": 0.02991,
+          "relevant": false
+        },
+        {
+          "rank": 11,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-much-neglected-issue-gauging-the-acceptability-of-a-new-interpe/",
+          "title": "“A much-neglected issue”: gauging the acceptability of a new interpersonal process model for CBT supervision",
+          "year": 2026,
+          "score": 0.025782,
+          "relevant": false
+        },
+        {
+          "rank": 12,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/moving-minds-the-associations-between-movement-and-cognitive-deve/",
+          "title": "Moving Minds: The associations between movement and cognitive development in early years",
+          "year": 2026,
+          "score": 0.025137,
+          "relevant": false
+        },
+        {
+          "rank": 13,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/exploring-the-perspectives-and-experiences-of-men-living-with-pro/",
+          "title": "Exploring the perspectives and experiences of men living with prostate cancer from minority ethnic backgrounds in undertaking physical activity: A qualitative analysis",
+          "year": 2026,
+          "score": 0.024445,
+          "relevant": false
+        },
+        {
+          "rank": 14,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-potential-utility-of-abbreviated-breast-mri-fast-mri-as-a-too/",
+          "title": "The potential utility of abbreviated breast MRI (FAST MRI) as a tool for breast cancer screening: a systematic review and meta-analysis",
+          "year": 2021,
+          "score": 0.024269,
+          "relevant": false
+        },
+        {
+          "rank": 15,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/psychosis-and-bipolar-disorder-a-multisite-evaluation-of-the-unit/",
+          "title": "Psychosis and Bipolar Disorder: A Multisite Evaluation of the United Kingdom’s (UK’s) Section 136 of the Mental Health Act (1983) Detentions over a 4 Year Period",
+          "year": 2026,
+          "score": 0.024043,
+          "relevant": false
+        },
+        {
+          "rank": 16,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/new-irish-midwifery-registration-standards-and-the-missed-opportu/",
+          "title": "New Irish Midwifery Registration Standards and the Missed Opportunity for Gender-Inclusive Curricula and Reproductive Justice",
+          "year": 2026,
+          "score": 0.02335,
+          "relevant": false
+        },
+        {
+          "rank": 17,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/why-uk-midwives-intend-to-stay-in-or-leave-the-midwifery-professi/",
+          "title": "Why UK midwives intend to stay in or leave the midwifery profession: A conceptual model of push, pull and mooring factors",
+          "year": 2026,
+          "score": 0.022867,
+          "relevant": false
+        },
+        {
+          "rank": 18,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/reframing-nices-cost-effectiveness-threshold-technical-benchmark-/",
+          "title": "Reframing NICE’s Cost-Effectiveness Threshold: Technical Benchmark or Policy Signal? A Documentary Content Analysis: Reframing NICE’s Cost-Effectiveness Threshold",
+          "year": 2026,
+          "score": 0.022356,
+          "relevant": false
+        },
+        {
+          "rank": 19,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/physical-activity-and-exercise-for-the-management-of-polycystic-o/",
+          "title": "Physical activity and exercise for the management of polycystic ovary syndrome (PCOS)",
+          "year": 2026,
+          "score": 0.021821,
+          "relevant": false
+        },
+        {
+          "rank": 20,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/evaluating-schoolbased-obesity-prevention-interventions-in-6-to-1/",
+          "title": "Evaluating School‐Based Obesity Prevention Interventions in 6‐ to 12‐Year‐Old Children: A Scoping Review of All Reported Outcomes and Expert Consultation",
+          "year": 2026,
+          "score": 0.021377,
+          "relevant": false
+        },
+        {
+          "rank": 21,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/physical-activity-trust-and-research-participation-among-men-from/",
+          "title": "Physical Activity, Trust, and Research Participation Among Men From Minority Ethnic Backgrounds Living With Prostate Cancer: A Qualitative Study",
+          "year": 2026,
+          "score": 0.021212,
+          "relevant": false
+        },
+        {
+          "rank": 22,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/key-principles-for-rehabilitation-of-critically-ill-patients-with/",
+          "title": "Key principles for rehabilitation of critically ill patients with obesity",
+          "year": 2026,
+          "score": 0.020778,
+          "relevant": false
+        },
+        {
+          "rank": 23,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/comparative-performance-of-anthropometric-indices-in-predicting-c/",
+          "title": "Comparative performance of anthropometric indices in predicting cardiometabolic risk severity in black adults",
+          "year": 2026,
+          "score": 0.020737,
+          "relevant": false
+        },
+        {
+          "rank": 24,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/prevalence-of-exercise-induced-bronchoconstriction-in-elite-chine/",
+          "title": "Prevalence of exercise-induced bronchoconstriction in elite Chinese summer sport athletes",
+          "year": 2026,
+          "score": 0.020298,
+          "relevant": false
+        },
+        {
+          "rank": 25,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/perceptions-attitudes-and-experiences-of-glp-1-receptor-agonists-/",
+          "title": "Perceptions, Attitudes, and Experiences of GLP-1 Receptor Agonists for Weight Management in the United Kingdom: A Cross-Sectional Survey Study",
+          "year": 2026,
+          "score": 0.02015,
+          "relevant": false
+        },
+        {
+          "rank": 26,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/longitudinal-assessment-of-chemotherapy-induced-peripheral-neurop/",
+          "title": "Longitudinal assessment of chemotherapy-induced peripheral neuropathy in women undergoing taxane-based treatment for breast cancer: a prospective observational study",
+          "year": 2026,
+          "score": 0.019848,
+          "relevant": false
+        },
+        {
+          "rank": 27,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/global-regional-and-national-burden-of-road-injuries-19902023-a-s/",
+          "title": "Global, regional, and national burden of road injuries 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023",
+          "year": 2026,
+          "score": 0.019604,
+          "relevant": false
+        },
+        {
+          "rank": 28,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/transition-time-between-long-term-conditions-among-childbearing-w/",
+          "title": "Transition time between long-term conditions among childbearing women in England: a nationwide observational analysis",
+          "year": 2026,
+          "score": 0.019601,
+          "relevant": false
+        },
+        {
+          "rank": 29,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/why-they-do-not-move-an-explainable-machine-learning-analysis-of-/",
+          "title": "Why they do not move: An explainable machine learning analysis of physical activity barriers in obese adolescents and tool translation",
+          "year": 2026,
+          "score": 0.019342,
+          "relevant": false
+        },
+        {
+          "rank": 30,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/global-burden-of-87-risk-factors-in-204-countries-and-territories/",
+          "title": "Global burden of 87 risk factors in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019",
+          "year": 2020,
+          "score": 0.017751,
+          "relevant": false
+        },
+        {
+          "rank": 31,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/effect-of-six-weeks-ubiquinol-supplementation-on-mitochondrial-re/",
+          "title": "Effect of six weeks ubiquinol supplementation on mitochondrial respiratory function and exercise capacity in healthy males",
+          "year": 2026,
+          "score": 0.017451,
+          "relevant": false
+        },
+        {
+          "rank": 32,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/global-burden-of-369-diseases-and-injuries-in-204-countries-and-t/",
+          "title": "Global burden of 369 diseases and injuries in 204 countries and territories, 1990–2019: a systematic analysis for the Global Burden of Disease Study 2019",
+          "year": 2020,
+          "score": 0.016278,
+          "relevant": false
+        },
+        {
+          "rank": 33,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/global-age-sex-specific-fertility-mortality-healthy-life-expectan/",
+          "title": "Global age-sex-specific fertility, mortality, healthy life expectancy (HALE), and population estimates in 204 countries and territories, 1950–2019: a comprehensive demographic analysis for the Global Burden of Disease Study 2019",
+          "year": 2020,
+          "score": 0.015859,
+          "relevant": false
+        },
+        {
+          "rank": 34,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/effects-of-a-peer-support-lifestyle-intervention-on-diabetes-inci/",
+          "title": "Effects of a peer-support lifestyle intervention on diabetes incidence in India (K-DPP): 9-year follow-up of a cluster-randomised, controlled trial",
+          "year": 2026,
+          "score": 0.015177,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "digital yoga",
+      "relevant_count": 1,
+      "retrieved_count": 6,
+      "latency_ms": 12.087,
+      "mrr": 1.0,
+      "average_precision": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.33333333333333337,
+      "ndcg_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.18181818181818182,
+      "ndcg_at_10": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/",
+          "title": "A digital yoga-based 'Pause Grow Reflect' intervention for postgraduate researchers: a feasibility randomised controlled trial and embedded qualitative acceptability study",
+          "year": 2026,
+          "score": 0.222895,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/rethinking-digital-healthcare-education-for-frailty/",
+          "title": "Rethinking Digital Healthcare Education for Frailty",
+          "year": 2025,
+          "score": 0.137223,
+          "relevant": false
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/development-and-evaluation-of-a-digitally-based-functional-fitnes/",
+          "title": "Development and Evaluation of A Digitally Based Functional Fitness Self-Assessment and Monitoring Tool for Older Adults",
+          "year": 2026,
+          "score": 0.063052,
+          "relevant": false
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-novel-digital-intervention-to-support-mental-and-sexual-wellbei/",
+          "title": "A novel digital intervention to support mental and sexual wellbeing after stroke and brain injury: a feasibility randomised controlled trial",
+          "year": 2026,
+          "score": 0.060634,
+          "relevant": false
+        },
+        {
+          "rank": 5,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/blockchain-and-homomorphic-based-data-aggregation-for-load-monito/",
+          "title": "Blockchain and homomorphic-based data aggregation for load monitoring and billing in smart grids",
+          "year": 2026,
+          "score": 0.045323,
+          "relevant": false
+        },
+        {
+          "rank": 6,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-review-of-remote-sensing-based-crop-yield-estimation-machine-le/",
+          "title": "A review of remote sensing-based crop yield estimation: machine learning techniques and environmental, algorithmic, and hardware limitations",
+          "year": 2026,
+          "score": 0.024317,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "postgraduate",
+      "relevant_count": 2,
+      "retrieved_count": 3,
+      "latency_ms": 7.648,
+      "mrr": 1.0,
+      "average_precision": 1.0,
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.5714285714285715,
+      "ndcg_at_5": 1.0,
+      "precision_at_10": 0.2,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.33333333333333337,
+      "ndcg_at_10": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-cross-sectional-study-of-postgraduate-students-mental-well-bein/",
+          "title": "A Cross-Sectional Study of Postgraduate Students' Mental Well-Being: Exploring the Relationship Between Mental Well-Being, Perceived Stress, Academic Self-Efficacy, and Self-Efficacy for Self-Regulated Learning",
+          "year": 2026,
+          "score": 0.181151,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/",
+          "title": "A digital yoga-based 'Pause Grow Reflect' intervention for postgraduate researchers: a feasibility randomised controlled trial and embedded qualitative acceptability study",
+          "year": 2026,
+          "score": 0.144189,
+          "relevant": true
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-review-of-remote-sensing-based-crop-yield-estimation-machine-le/",
+          "title": "A review of remote sensing-based crop yield estimation: machine learning techniques and environmental, algorithmic, and hardware limitations",
+          "year": 2026,
+          "score": 0.059602,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "machine learning",
+      "relevant_count": 5,
+      "retrieved_count": 11,
+      "latency_ms": 21.371,
+      "mrr": 1.0,
+      "average_precision": 0.9266666666666665,
+      "precision_at_5": 0.8,
+      "recall_at_5": 0.8,
+      "f1_at_5": 0.8000000000000002,
+      "ndcg_at_5": 0.8539316501572937,
+      "precision_at_10": 0.5,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.6666666666666666,
+      "ndcg_at_10": 0.9747429528567879,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/federated-learning-enabled-adversarial-attack-detection-framework/",
+          "title": "Federated Learning-Enabled Adversarial Attack Detection Framework for Healthcare Laboratory Data",
+          "year": 2025,
+          "score": 0.13381,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/area-level-medication-demand-prediction-via-multitask-spatial-tem/",
+          "title": "Area-Level Medication Demand Prediction Via Multitask Spatial-Temporal Machine Learning",
+          "year": 2026,
+          "score": 0.13203,
+          "relevant": true
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/why-they-do-not-move-an-explainable-machine-learning-analysis-of-/",
+          "title": "Why they do not move: An explainable machine learning analysis of physical activity barriers in obese adolescents and tool translation",
+          "year": 2026,
+          "score": 0.123339,
+          "relevant": true
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/learning-together-a-review-of-the-quality-of-care-provided-to-adu/",
+          "title": "Learning Together: A review of the quality of care provided to adults with a learning disability when admitted to hospital acutely unwell.",
+          "year": 2026,
+          "score": 0.10643,
+          "relevant": false
+        },
+        {
+          "rank": 5,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-review-of-remote-sensing-based-crop-yield-estimation-machine-le/",
+          "title": "A review of remote sensing-based crop yield estimation: machine learning techniques and environmental, algorithmic, and hardware limitations",
+          "year": 2026,
+          "score": 0.10378,
+          "relevant": true
+        },
+        {
+          "rank": 6,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/machine-learning-derived-retinal-pigment-score-from-ophthalmic-im/",
+          "title": "Machine learning derived retinal pigment score from ophthalmic imaging shows ethnicity is not biology",
+          "year": 2025,
+          "score": 0.088508,
+          "relevant": true
+        },
+        {
+          "rank": 7,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/qualitative-analysis-framework-and-interpretation-of-large-qualit/",
+          "title": "Qualitative Analysis, Framework and Interpretation of Large Qualitative Datasets (QUALI-FIND): A New and Novel Learning Opportunity",
+          "year": 2026,
+          "score": 0.07268,
+          "relevant": false
+        },
+        {
+          "rank": 8,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-cross-sectional-study-of-postgraduate-students-mental-well-bein/",
+          "title": "A Cross-Sectional Study of Postgraduate Students' Mental Well-Being: Exploring the Relationship Between Mental Well-Being, Perceived Stress, Academic Self-Efficacy, and Self-Efficacy for Self-Regulated Learning",
+          "year": 2026,
+          "score": 0.052261,
+          "relevant": false
+        },
+        {
+          "rank": 9,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/learning-to-sip-tea-intelligently-a-phenomenographic-exploration-/",
+          "title": "\"Learning to sip tea intelligently”: A phenomenographic exploration of midwifery students’ perceptions of emotional intelligence and its relationship to midwifery",
+          "year": 2026,
+          "score": 0.0503,
+          "relevant": false
+        },
+        {
+          "rank": 10,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/behavioural-determinants-of-dietary-selfmanagement-in-chronic-kid/",
+          "title": "Behavioural Determinants of Dietary Self‐Management in Chronic Kidney Disease: A Theory‐Informed Analysis to Inform Dietetic Interventions",
+          "year": 2026,
+          "score": 0.031232,
+          "relevant": false
+        },
+        {
+          "rank": 11,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/age-and-sex-specific-percentile-curves-for-the-test-of-gross-moto/",
+          "title": "Age-and sex-specific percentile curves for the Test of Gross Motor Development from 7,263 children aged 3-5 years from 13 countries",
+          "year": 2026,
+          "score": 0.02603,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "football",
+      "relevant_count": 4,
+      "retrieved_count": 5,
+      "latency_ms": 11.307,
+      "mrr": 1.0,
+      "average_precision": 1.0,
+      "precision_at_5": 0.8,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.888888888888889,
+      "ndcg_at_5": 1.0,
+      "precision_at_10": 0.4,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.5714285714285715,
+      "ndcg_at_10": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/childrens-experiences-of-increasing-competitiveness-in-football-a/",
+          "title": "Children’s experiences of increasing competitiveness in football: A Write-Draw-Show-Tell study across developmental stages",
+          "year": 2026,
+          "score": 0.128222,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/what-drives-enjoyment-in-grassroots-football-for-children-a-write/",
+          "title": "What drives enjoyment in grassroots football for children? A Write–Draw–Show–Tell approach",
+          "year": 2026,
+          "score": 0.116222,
+          "relevant": true
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/grassroots-football-coaches-knowledge-and-perspectives-of-physica/",
+          "title": "Grassroots football coaches’ knowledge and perspectives of physical literacy to improve child wellbeing through community sport",
+          "year": 2026,
+          "score": 0.113731,
+          "relevant": true
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-relationship-between-physical-technical-and-tactical-skills-p/",
+          "title": "The relationship between physical, technical, and tactical skills, perceived competence and decision-making and execution during small-sided games in youth grassroots footballers",
+          "year": 2026,
+          "score": 0.1054,
+          "relevant": true
+        },
+        {
+          "rank": 5,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/moving-minds-the-associations-between-movement-and-cognitive-deve/",
+          "title": "Moving Minds: The associations between movement and cognitive development in early years",
+          "year": 2026,
+          "score": 0.076423,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "long covid",
+      "relevant_count": 3,
+      "retrieved_count": 28,
+      "latency_ms": 81.806,
+      "mrr": 1.0,
+      "average_precision": 1.0,
+      "precision_at_5": 0.6,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.7499999999999999,
+      "ndcg_at_5": 1.0,
+      "precision_at_10": 0.3,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.4615384615384615,
+      "ndcg_at_10": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/patient-and-public-involvement-and-engagement-in-long-covid-resea/",
+          "title": "Patient and public involvement and engagement in Long COVID research: embedding inclusion in research",
+          "year": 2026,
+          "score": 0.153425,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/impaired-peripheral-oxygen-delivery-during-submaximal-exercise-in/",
+          "title": "Impaired peripheral oxygen delivery during submaximal exercise in adults with long COVID",
+          "year": 2026,
+          "score": 0.130073,
+          "relevant": true
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/an-open-label-clinical-feasibility-study-of-the-efficacy-of-remde/",
+          "title": "An open-label, clinical feasibility study of the efficacy of Remdesivir for Long-COVID",
+          "year": 2026,
+          "score": 0.116884,
+          "relevant": true
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/why-uk-midwives-intend-to-stay-in-or-leave-the-midwifery-professi/",
+          "title": "Why UK midwives intend to stay in or leave the midwifery profession: A conceptual model of push, pull and mooring factors",
+          "year": 2026,
+          "score": 0.064032,
+          "relevant": false
+        },
+        {
+          "rank": 5,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/from-conflicting-outcomes-to-mutual-losses-how-punitive-responses/",
+          "title": "From Conflicting Outcomes to Mutual Losses: How Punitive Responses to Problematic Substance Use Suppress Help‐Seeking and Cause Harm",
+          "year": 2026,
+          "score": 0.05959,
+          "relevant": false
+        },
+        {
+          "rank": 6,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/professional-identity-in-psychiatric-nursing-a-qualitative-study-/",
+          "title": "Professional identity in psychiatric nursing: a qualitative study of nurses’ perceptions and influencing factors",
+          "year": 2026,
+          "score": 0.015847,
+          "relevant": false
+        },
+        {
+          "rank": 7,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/grassroots-football-coaches-knowledge-and-perspectives-of-physica/",
+          "title": "Grassroots football coaches’ knowledge and perspectives of physical literacy to improve child wellbeing through community sport",
+          "year": 2026,
+          "score": 0.014395,
+          "relevant": false
+        },
+        {
+          "rank": 8,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/development-and-evaluation-of-a-digitally-based-functional-fitnes/",
+          "title": "Development and Evaluation of A Digitally Based Functional Fitness Self-Assessment and Monitoring Tool for Older Adults",
+          "year": 2026,
+          "score": 0.013476,
+          "relevant": false
+        },
+        {
+          "rank": 9,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/perceived-needs-of-parents-of-adolescents-with-a-history-of-suici/",
+          "title": "Perceived needs of parents of adolescents with a history of suicide attempts: a qualitative exploration",
+          "year": 2026,
+          "score": 0.013463,
+          "relevant": false
+        },
+        {
+          "rank": 10,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/stakeholder-experiences-of-rehabilitation-for-adults-with-complex/",
+          "title": "Stakeholder experiences of rehabilitation for adults with complex fractures following traumatic injury: a qualitative interview study",
+          "year": 2026,
+          "score": 0.013234,
+          "relevant": false
+        },
+        {
+          "rank": 11,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/perceptions-attitudes-and-experiences-of-glp-1-receptor-agonists-/",
+          "title": "Perceptions, Attitudes, and Experiences of GLP-1 Receptor Agonists for Weight Management in the United Kingdom: A Cross-Sectional Survey Study",
+          "year": 2026,
+          "score": 0.013125,
+          "relevant": false
+        },
+        {
+          "rank": 12,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/transition-time-between-long-term-conditions-among-childbearing-w/",
+          "title": "Transition time between long-term conditions among childbearing women in England: a nationwide observational analysis",
+          "year": 2026,
+          "score": 0.012767,
+          "relevant": false
+        },
+        {
+          "rank": 13,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/",
+          "title": "A digital yoga-based 'Pause Grow Reflect' intervention for postgraduate researchers: a feasibility randomised controlled trial and embedded qualitative acceptability study",
+          "year": 2026,
+          "score": 0.012573,
+          "relevant": false
+        },
+        {
+          "rank": 14,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/mapping-the-situation-of-unaccompanied-and-separated-children-in-/",
+          "title": "Mapping the situation of unaccompanied and separated children in Greece: A scoping review",
+          "year": 2026,
+          "score": 0.012339,
+          "relevant": false
+        },
+        {
+          "rank": 15,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/area-level-medication-demand-prediction-via-multitask-spatial-tem/",
+          "title": "Area-Level Medication Demand Prediction Via Multitask Spatial-Temporal Machine Learning",
+          "year": 2026,
+          "score": 0.01202,
+          "relevant": false
+        },
+        {
+          "rank": 16,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/blockchain-and-homomorphic-based-data-aggregation-for-load-monito/",
+          "title": "Blockchain and homomorphic-based data aggregation for load monitoring and billing in smart grids",
+          "year": 2026,
+          "score": 0.011928,
+          "relevant": false
+        },
+        {
+          "rank": 17,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/machine-learning-derived-retinal-pigment-score-from-ophthalmic-im/",
+          "title": "Machine learning derived retinal pigment score from ophthalmic imaging shows ethnicity is not biology",
+          "year": 2025,
+          "score": 0.011806,
+          "relevant": false
+        },
+        {
+          "rank": 18,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-verbal-and-visual-account-of-the-perceived-influences-on-health/",
+          "title": "A verbal and visual account of the perceived influences on health-promoting behaviors among women at midlife navigating perimenopause",
+          "year": 2026,
+          "score": 0.011592,
+          "relevant": false
+        },
+        {
+          "rank": 19,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-current-uses-of-haptic-enabled-extended-reality-technologies-/",
+          "title": "The Current Uses of Haptic-Enabled Extended Reality Technologies for Developing Professional Touch Within Healthcare Education: A Scoping Review",
+          "year": 2026,
+          "score": 0.011538,
+          "relevant": false
+        },
+        {
+          "rank": 20,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/physical-activity-and-exercise-for-the-management-of-polycystic-o/",
+          "title": "Physical activity and exercise for the management of polycystic ovary syndrome (PCOS)",
+          "year": 2026,
+          "score": 0.010925,
+          "relevant": false
+        },
+        {
+          "rank": 21,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/left-atrium-incisure-curvature-an-indicator-for-predicting-atrial/",
+          "title": "Left atrium incisure curvature: an indicator for predicting atrial fibrillation-related cardioembolism",
+          "year": 2026,
+          "score": 0.01042,
+          "relevant": false
+        },
+        {
+          "rank": 22,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/key-principles-for-rehabilitation-of-critically-ill-patients-with/",
+          "title": "Key principles for rehabilitation of critically ill patients with obesity",
+          "year": 2026,
+          "score": 0.010402,
+          "relevant": false
+        },
+        {
+          "rank": 23,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/longitudinal-assessment-of-chemotherapy-induced-peripheral-neurop/",
+          "title": "Longitudinal assessment of chemotherapy-induced peripheral neuropathy in women undergoing taxane-based treatment for breast cancer: a prospective observational study",
+          "year": 2026,
+          "score": 0.009937,
+          "relevant": false
+        },
+        {
+          "rank": 24,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/effects-of-a-peer-support-lifestyle-intervention-on-diabetes-inci/",
+          "title": "Effects of a peer-support lifestyle intervention on diabetes incidence in India (K-DPP): 9-year follow-up of a cluster-randomised, controlled trial",
+          "year": 2026,
+          "score": 0.009886,
+          "relevant": false
+        },
+        {
+          "rank": 25,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/why-they-do-not-move-an-explainable-machine-learning-analysis-of-/",
+          "title": "Why they do not move: An explainable machine learning analysis of physical activity barriers in obese adolescents and tool translation",
+          "year": 2026,
+          "score": 0.009683,
+          "relevant": false
+        },
+        {
+          "rank": 26,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/changes-in-binge-eating-symptoms-following-an-online-community-ba/",
+          "title": "Changes in binge eating symptoms following an online community-based ultra-processed food addiction intervention: Liberate",
+          "year": 2026,
+          "score": 0.009299,
+          "relevant": false
+        },
+        {
+          "rank": 27,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/effect-of-six-weeks-ubiquinol-supplementation-on-mitochondrial-re/",
+          "title": "Effect of six weeks ubiquinol supplementation on mitochondrial respiratory function and exercise capacity in healthy males",
+          "year": 2026,
+          "score": 0.008737,
+          "relevant": false
+        },
+        {
+          "rank": 28,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/associations-of-parental-physical-activity-and-physical-fitness-w/",
+          "title": "Associations of Parental Physical Activity and Physical Fitness With Motor Competence, Physical Fitness, Anthropometry, and 24-Hour Movement Behaviors in Preschool Children: A Cross-Sectional Study",
+          "year": 2026,
+          "score": 0.008453,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "breast cancer",
+      "relevant_count": 2,
+      "retrieved_count": 4,
+      "latency_ms": 11.231,
+      "mrr": 1.0,
+      "average_precision": 1.0,
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.5714285714285715,
+      "ndcg_at_5": 1.0,
+      "precision_at_10": 0.2,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.33333333333333337,
+      "ndcg_at_10": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-potential-utility-of-abbreviated-breast-mri-fast-mri-as-a-too/",
+          "title": "The potential utility of abbreviated breast MRI (FAST MRI) as a tool for breast cancer screening: a systematic review and meta-analysis",
+          "year": 2021,
+          "score": 0.208849,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/longitudinal-assessment-of-chemotherapy-induced-peripheral-neurop/",
+          "title": "Longitudinal assessment of chemotherapy-induced peripheral neuropathy in women undergoing taxane-based treatment for breast cancer: a prospective observational study",
+          "year": 2026,
+          "score": 0.168812,
+          "relevant": true
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/exploring-the-perspectives-and-experiences-of-men-living-with-pro/",
+          "title": "Exploring the perspectives and experiences of men living with prostate cancer from minority ethnic backgrounds in undertaking physical activity: A qualitative analysis",
+          "year": 2026,
+          "score": 0.093485,
+          "relevant": false
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/physical-activity-trust-and-research-participation-among-men-from/",
+          "title": "Physical Activity, Trust, and Research Participation Among Men From Minority Ethnic Backgrounds Living With Prostate Cancer: A Qualitative Study",
+          "year": 2026,
+          "score": 0.083672,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "midwifery",
+      "relevant_count": 3,
+      "retrieved_count": 5,
+      "latency_ms": 12.468,
+      "mrr": 1.0,
+      "average_precision": 1.0,
+      "precision_at_5": 0.6,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.7499999999999999,
+      "ndcg_at_5": 1.0,
+      "precision_at_10": 0.3,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.4615384615384615,
+      "ndcg_at_10": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/learning-to-sip-tea-intelligently-a-phenomenographic-exploration-/",
+          "title": "\"Learning to sip tea intelligently”: A phenomenographic exploration of midwifery students’ perceptions of emotional intelligence and its relationship to midwifery",
+          "year": 2026,
+          "score": 0.193698,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/why-uk-midwives-intend-to-stay-in-or-leave-the-midwifery-professi/",
+          "title": "Why UK midwives intend to stay in or leave the midwifery profession: A conceptual model of push, pull and mooring factors",
+          "year": 2026,
+          "score": 0.146963,
+          "relevant": true
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/new-irish-midwifery-registration-standards-and-the-missed-opportu/",
+          "title": "New Irish Midwifery Registration Standards and the Missed Opportunity for Gender-Inclusive Curricula and Reproductive Justice",
+          "year": 2026,
+          "score": 0.120612,
+          "relevant": true
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/from-conflicting-outcomes-to-mutual-losses-how-punitive-responses/",
+          "title": "From Conflicting Outcomes to Mutual Losses: How Punitive Responses to Problematic Substance Use Suppress Help‐Seeking and Cause Harm",
+          "year": 2026,
+          "score": 0.064698,
+          "relevant": false
+        },
+        {
+          "rank": 5,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/examining-the-effect-of-an-orientation-tour-and-aromatherapy-on-s/",
+          "title": "Examining the Effect of an Orientation Tour and Aromatherapy on Stress and Depressed Mood in Birthing Parents with Preterm Infants: A Quasi-Experimental Study",
+          "year": 2026,
+          "score": 0.059204,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "kidney",
+      "relevant_count": 2,
+      "retrieved_count": 2,
+      "latency_ms": 6.315,
+      "mrr": 1.0,
+      "average_precision": 1.0,
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.5714285714285715,
+      "ndcg_at_5": 1.0,
+      "precision_at_10": 0.2,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.33333333333333337,
+      "ndcg_at_10": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/understanding-the-implementation-of-kidney-supportive-care-interv/",
+          "title": "Understanding the implementation of kidney supportive care interventions to improve palliative care outcomes for adults receiving haemodialysis: protocol for a rapid realist review",
+          "year": 2026,
+          "score": 0.119262,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/behavioural-determinants-of-dietary-selfmanagement-in-chronic-kid/",
+          "title": "Behavioural Determinants of Dietary Self‐Management in Chronic Kidney Disease: A Theory‐Informed Analysis to Inform Dietetic Interventions",
+          "year": 2026,
+          "score": 0.097163,
+          "relevant": true
+        }
+      ]
+    },
+    {
+      "query": "cardiometabolic",
+      "relevant_count": 3,
+      "retrieved_count": 5,
+      "latency_ms": 14.926,
+      "mrr": 1.0,
+      "average_precision": 1.0,
+      "precision_at_5": 0.6,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.7499999999999999,
+      "ndcg_at_5": 1.0,
+      "precision_at_10": 0.3,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.4615384615384615,
+      "ndcg_at_10": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/objective-analysis-of-movement-behaviours-and-cardiometabolic-hea/",
+          "title": "Objective Analysis of Movement Behaviours and Cardiometabolic Health in Sub-Saharan Africans Living in the UK: A Cross Sectional Study",
+          "year": 2026,
+          "score": 0.117385,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/physical-activity-bouts-and-sleep-duration-are-key-predictors-of-/",
+          "title": "Physical activity bouts and sleep duration are key predictors of cardiometabolic risk in Black adults",
+          "year": 2026,
+          "score": 0.10798,
+          "relevant": true
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/comparative-performance-of-anthropometric-indices-in-predicting-c/",
+          "title": "Comparative performance of anthropometric indices in predicting cardiometabolic risk severity in black adults",
+          "year": 2026,
+          "score": 0.093125,
+          "relevant": true
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/physical-activity-and-exercise-for-the-management-of-polycystic-o/",
+          "title": "Physical activity and exercise for the management of polycystic ovary syndrome (PCOS)",
+          "year": 2026,
+          "score": 0.066341,
+          "relevant": false
+        },
+        {
+          "rank": 5,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/perceptions-attitudes-and-experiences-of-glp-1-receptor-agonists-/",
+          "title": "Perceptions, Attitudes, and Experiences of GLP-1 Receptor Agonists for Weight Management in the United Kingdom: A Cross-Sectional Survey Study",
+          "year": 2026,
+          "score": 0.061262,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "prostate cancer",
+      "relevant_count": 2,
+      "retrieved_count": 4,
+      "latency_ms": 11.36,
+      "mrr": 1.0,
+      "average_precision": 1.0,
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.5714285714285715,
+      "ndcg_at_5": 1.0,
+      "precision_at_10": 0.2,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.33333333333333337,
+      "ndcg_at_10": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/exploring-the-perspectives-and-experiences-of-men-living-with-pro/",
+          "title": "Exploring the perspectives and experiences of men living with prostate cancer from minority ethnic backgrounds in undertaking physical activity: A qualitative analysis",
+          "year": 2026,
+          "score": 0.222676,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/physical-activity-trust-and-research-participation-among-men-from/",
+          "title": "Physical Activity, Trust, and Research Participation Among Men From Minority Ethnic Backgrounds Living With Prostate Cancer: A Qualitative Study",
+          "year": 2026,
+          "score": 0.20542,
+          "relevant": true
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-potential-utility-of-abbreviated-breast-mri-fast-mri-as-a-too/",
+          "title": "The potential utility of abbreviated breast MRI (FAST MRI) as a tool for breast cancer screening: a systematic review and meta-analysis",
+          "year": 2021,
+          "score": 0.080587,
+          "relevant": false
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/longitudinal-assessment-of-chemotherapy-induced-peripheral-neurop/",
+          "title": "Longitudinal assessment of chemotherapy-induced peripheral neuropathy in women undergoing taxane-based treatment for breast cancer: a prospective observational study",
+          "year": 2026,
+          "score": 0.069895,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "rehabilitation",
+      "relevant_count": 2,
+      "retrieved_count": 8,
+      "latency_ms": 25.784,
+      "mrr": 1.0,
+      "average_precision": 0.8333333333333333,
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.5714285714285715,
+      "ndcg_at_5": 0.9197207891481876,
+      "precision_at_10": 0.2,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.33333333333333337,
+      "ndcg_at_10": 0.9197207891481876,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/stakeholder-experiences-of-rehabilitation-for-adults-with-complex/",
+          "title": "Stakeholder experiences of rehabilitation for adults with complex fractures following traumatic injury: a qualitative interview study",
+          "year": 2026,
+          "score": 0.131213,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/patient-and-clinician-acceptability-of-an-integrated-physiotherap/",
+          "title": "Patient and clinician acceptability of an integrated physiotherapy and nutrition intervention after ICU discharge: a qualitative exploration of a pre-specified co-primary feasibility outcome of the PHOENIX trial",
+          "year": 2026,
+          "score": 0.102612,
+          "relevant": false
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/key-principles-for-rehabilitation-of-critically-ill-patients-with/",
+          "title": "Key principles for rehabilitation of critically ill patients with obesity",
+          "year": 2026,
+          "score": 0.097377,
+          "relevant": true
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/physiotherapy-and-optimised-enteral-nutrition-in-the-post-acute-p-2/",
+          "title": "Physiotherapy and optimised enteral nutrition in the post-acute phase of critical illness (PHOENIX): a randomised controlled feasibility trial",
+          "year": 2026,
+          "score": 0.090665,
+          "relevant": false
+        },
+        {
+          "rank": 5,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/physiotherapy-provision-and-practice-a-european-intensive-care-un-3/",
+          "title": "Physiotherapy Provision and Practice: A EuropeAn Intensive CarE Unit (ICU) Survey (PEAiCE) – A profile of ICU physiotherapy in Europe.",
+          "year": 2026,
+          "score": 0.08224,
+          "relevant": false
+        },
+        {
+          "rank": 6,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-current-uses-of-haptic-enabled-extended-reality-technologies-/",
+          "title": "The Current Uses of Haptic-Enabled Extended Reality Technologies for Developing Professional Touch Within Healthcare Education: A Scoping Review",
+          "year": 2026,
+          "score": 0.076157,
+          "relevant": false
+        },
+        {
+          "rank": 7,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-novel-digital-intervention-to-support-mental-and-sexual-wellbei/",
+          "title": "A novel digital intervention to support mental and sexual wellbeing after stroke and brain injury: a feasibility randomised controlled trial",
+          "year": 2026,
+          "score": 0.065746,
+          "relevant": false
+        },
+        {
+          "rank": 8,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-relationship-between-physical-technical-and-tactical-skills-p/",
+          "title": "The relationship between physical, technical, and tactical skills, perceived competence and decision-making and execution during small-sided games in youth grassroots footballers",
+          "year": 2026,
+          "score": 0.049522,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "Michael Duncan",
+      "relevant_count": 17,
+      "retrieved_count": 18,
+      "latency_ms": 37.92,
+      "mrr": 1.0,
+      "average_precision": 0.9169544267727658,
+      "precision_at_5": 0.8,
+      "recall_at_5": 0.23529411764705882,
+      "f1_at_5": 0.3636363636363636,
+      "ndcg_at_5": 0.8539316501572937,
+      "precision_at_10": 0.9,
+      "recall_at_10": 0.5294117647058824,
+      "f1_at_10": 0.6666666666666667,
+      "ndcg_at_10": 0.9052116356304493,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/exploring-factors-that-impact-playground-design-decisions-and-the/",
+          "title": "Exploring factors that impact playground design decisions and the effect on children’s physical activity and health: a qualitative case study of stakeholder experiences in Rugby, UK",
+          "year": 2026,
+          "score": 0.084127,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-effectiveness-of-community-sports-interventions-on-childrens-/",
+          "title": "The effectiveness of community sports interventions on children’s wellbeing: a systematic review and meta-analysis",
+          "year": 2026,
+          "score": 0.076059,
+          "relevant": true
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/grassroots-football-coaches-knowledge-and-perspectives-of-physica/",
+          "title": "Grassroots football coaches’ knowledge and perspectives of physical literacy to improve child wellbeing through community sport",
+          "year": 2026,
+          "score": 0.068188,
+          "relevant": true
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/development-and-evaluation-of-a-digitally-based-functional-fitnes/",
+          "title": "Development and Evaluation of A Digitally Based Functional Fitness Self-Assessment and Monitoring Tool for Older Adults",
+          "year": 2026,
+          "score": 0.063833,
+          "relevant": false
+        },
+        {
+          "rank": 5,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/childrens-experiences-of-increasing-competitiveness-in-football-a/",
+          "title": "Children’s experiences of increasing competitiveness in football: A Write-Draw-Show-Tell study across developmental stages",
+          "year": 2026,
+          "score": 0.06243,
+          "relevant": true
+        },
+        {
+          "rank": 6,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/moving-minds-the-associations-between-movement-and-cognitive-deve/",
+          "title": "Moving Minds: The associations between movement and cognitive development in early years",
+          "year": 2026,
+          "score": 0.059613,
+          "relevant": true
+        },
+        {
+          "rank": 7,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/what-drives-enjoyment-in-grassroots-football-for-children-a-write/",
+          "title": "What drives enjoyment in grassroots football for children? A Write–Draw–Show–Tell approach",
+          "year": 2026,
+          "score": 0.056588,
+          "relevant": true
+        },
+        {
+          "rank": 8,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-effects-of-4-weeks-oral-tangeretin-supplementation-on-serum-t/",
+          "title": "The effects of 4-weeks oral tangeretin supplementation on serum testosterone and cortisol levels in sprinters during the winter training season",
+          "year": 2026,
+          "score": 0.054009,
+          "relevant": true
+        },
+        {
+          "rank": 9,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/evaluating-schoolbased-obesity-prevention-interventions-in-6-to-1/",
+          "title": "Evaluating School‐Based Obesity Prevention Interventions in 6‐ to 12‐Year‐Old Children: A Scoping Review of All Reported Outcomes and Expert Consultation",
+          "year": 2026,
+          "score": 0.050695,
+          "relevant": true
+        },
+        {
+          "rank": 10,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/objective-analysis-of-movement-behaviours-and-cardiometabolic-hea/",
+          "title": "Objective Analysis of Movement Behaviours and Cardiometabolic Health in Sub-Saharan Africans Living in the UK: A Cross Sectional Study",
+          "year": 2026,
+          "score": 0.049626,
+          "relevant": true
+        },
+        {
+          "rank": 11,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/comparative-performance-of-anthropometric-indices-in-predicting-c/",
+          "title": "Comparative performance of anthropometric indices in predicting cardiometabolic risk severity in black adults",
+          "year": 2026,
+          "score": 0.049177,
+          "relevant": true
+        },
+        {
+          "rank": 12,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-colour-of-taste-investigating-flavour-perception-and-preferen/",
+          "title": "The colour of taste: Investigating flavour perception and preference in children aged 9-11",
+          "year": 2026,
+          "score": 0.04826,
+          "relevant": true
+        },
+        {
+          "rank": 13,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/prevalence-of-exercise-induced-bronchoconstriction-in-elite-chine/",
+          "title": "Prevalence of exercise-induced bronchoconstriction in elite Chinese summer sport athletes",
+          "year": 2026,
+          "score": 0.048136,
+          "relevant": true
+        },
+        {
+          "rank": 14,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/age-and-sex-specific-percentile-curves-for-the-test-of-gross-moto/",
+          "title": "Age-and sex-specific percentile curves for the Test of Gross Motor Development from 7,263 children aged 3-5 years from 13 countries",
+          "year": 2026,
+          "score": 0.047824,
+          "relevant": true
+        },
+        {
+          "rank": 15,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/perceptions-attitudes-and-experiences-of-glp-1-receptor-agonists-/",
+          "title": "Perceptions, Attitudes, and Experiences of GLP-1 Receptor Agonists for Weight Management in the United Kingdom: A Cross-Sectional Survey Study",
+          "year": 2026,
+          "score": 0.047786,
+          "relevant": true
+        },
+        {
+          "rank": 16,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-relationship-between-physical-technical-and-tactical-skills-p/",
+          "title": "The relationship between physical, technical, and tactical skills, perceived competence and decision-making and execution during small-sided games in youth grassroots footballers",
+          "year": 2026,
+          "score": 0.046236,
+          "relevant": true
+        },
+        {
+          "rank": 17,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/physical-activity-bouts-and-sleep-duration-are-key-predictors-of-/",
+          "title": "Physical activity bouts and sleep duration are key predictors of cardiometabolic risk in Black adults",
+          "year": 2026,
+          "score": 0.04565,
+          "relevant": true
+        },
+        {
+          "rank": 18,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/associations-of-parental-physical-activity-and-physical-fitness-w/",
+          "title": "Associations of Parental Physical Activity and Physical Fitness With Motor Competence, Physical Fitness, Anthropometry, and 24-Hour Movement Behaviors in Preschool Children: A Cross-Sectional Study",
+          "year": 2026,
+          "score": 0.04004,
+          "relevant": true
+        }
+      ]
+    }
+  ]
+}

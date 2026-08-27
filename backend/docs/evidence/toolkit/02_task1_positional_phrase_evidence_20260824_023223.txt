@@ -1,0 +1,16 @@
+========================================================================
+TASK 1 — POSITIONAL INDEX + PHRASE SEARCH EVIDENCE
+========================================================================
+Stored positional postings
+Format: {document_id: [token_position, ...]}
+
+Term: student
+Positions: {71: [10, 73, 122, 138, 153, 173, 194, 233, 257, 295, 306, 387, 402], 1: [6, 46, 59, 70, 137, 142, 195, 198, 271, 280, 331], 2: [507, 519], 6: [407], 61: [393]}
+
+Term: postgradu
+Positions: {1: [5, 58, 103, 136, 141, 189, 193, 267, 279, 327], 2: [9, 45, 506, 518], 62: [546]}
+
+Exact phrase-search demonstration
+Original phrase: 'postgraduate students'
+Processed phrase tokens: ['postgradu', 'student']
+Matching document IDs: [1, 2]

@@ -1,0 +1,119 @@
+[
+  {
+    "query": "well-being",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/a-cross-sectional-study-of-postgraduate-students-mental-well-bein/",
+      "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/",
+      "https://pureportal.coventry.ac.uk/en/publications/canvas-to-change-a-pilot-study-exploring-experiences-of-a-creativ/",
+      "https://pureportal.coventry.ac.uk/en/publications/grassroots-football-coaches-knowledge-and-perspectives-of-physica/",
+      "https://pureportal.coventry.ac.uk/en/publications/a-novel-digital-intervention-to-support-mental-and-sexual-wellbei/",
+      "https://pureportal.coventry.ac.uk/en/publications/the-effectiveness-of-community-sports-interventions-on-childrens-/"
+    ]
+  },
+  {
+    "query": "digital yoga",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/"
+    ]
+  },
+  {
+    "query": "postgraduate",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/a-cross-sectional-study-of-postgraduate-students-mental-well-bein/",
+      "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/"
+    ]
+  },
+  {
+    "query": "machine learning",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/area-level-medication-demand-prediction-via-multitask-spatial-tem/",
+      "https://pureportal.coventry.ac.uk/en/publications/why-they-do-not-move-an-explainable-machine-learning-analysis-of-/",
+      "https://pureportal.coventry.ac.uk/en/publications/a-review-of-remote-sensing-based-crop-yield-estimation-machine-le/",
+      "https://pureportal.coventry.ac.uk/en/publications/machine-learning-derived-retinal-pigment-score-from-ophthalmic-im/",
+      "https://pureportal.coventry.ac.uk/en/publications/federated-learning-enabled-adversarial-attack-detection-framework/"
+    ]
+  },
+  {
+    "query": "football",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/what-drives-enjoyment-in-grassroots-football-for-children-a-write/",
+      "https://pureportal.coventry.ac.uk/en/publications/childrens-experiences-of-increasing-competitiveness-in-football-a/",
+      "https://pureportal.coventry.ac.uk/en/publications/grassroots-football-coaches-knowledge-and-perspectives-of-physica/",
+      "https://pureportal.coventry.ac.uk/en/publications/the-relationship-between-physical-technical-and-tactical-skills-p/"
+    ]
+  },
+  {
+    "query": "long covid",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/patient-and-public-involvement-and-engagement-in-long-covid-resea/",
+      "https://pureportal.coventry.ac.uk/en/publications/an-open-label-clinical-feasibility-study-of-the-efficacy-of-remde/",
+      "https://pureportal.coventry.ac.uk/en/publications/impaired-peripheral-oxygen-delivery-during-submaximal-exercise-in/"
+    ]
+  },
+  {
+    "query": "breast cancer",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/the-potential-utility-of-abbreviated-breast-mri-fast-mri-as-a-too/",
+      "https://pureportal.coventry.ac.uk/en/publications/longitudinal-assessment-of-chemotherapy-induced-peripheral-neurop/"
+    ]
+  },
+  {
+    "query": "midwifery",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/new-irish-midwifery-registration-standards-and-the-missed-opportu/",
+      "https://pureportal.coventry.ac.uk/en/publications/why-uk-midwives-intend-to-stay-in-or-leave-the-midwifery-professi/",
+      "https://pureportal.coventry.ac.uk/en/publications/learning-to-sip-tea-intelligently-a-phenomenographic-exploration-/"
+    ]
+  },
+  {
+    "query": "kidney",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/understanding-the-implementation-of-kidney-supportive-care-interv/",
+      "https://pureportal.coventry.ac.uk/en/publications/behavioural-determinants-of-dietary-selfmanagement-in-chronic-kid/"
+    ]
+  },
+  {
+    "query": "cardiometabolic",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/physical-activity-bouts-and-sleep-duration-are-key-predictors-of-/",
+      "https://pureportal.coventry.ac.uk/en/publications/comparative-performance-of-anthropometric-indices-in-predicting-c/",
+      "https://pureportal.coventry.ac.uk/en/publications/objective-analysis-of-movement-behaviours-and-cardiometabolic-hea/"
+    ]
+  },
+  {
+    "query": "prostate cancer",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/exploring-the-perspectives-and-experiences-of-men-living-with-pro/",
+      "https://pureportal.coventry.ac.uk/en/publications/physical-activity-trust-and-research-participation-among-men-from/"
+    ]
+  },
+  {
+    "query": "rehabilitation",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/key-principles-for-rehabilitation-of-critically-ill-patients-with/",
+      "https://pureportal.coventry.ac.uk/en/publications/stakeholder-experiences-of-rehabilitation-for-adults-with-complex/"
+    ]
+  },
+  {
+    "query": "Michael Duncan",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/age-and-sex-specific-percentile-curves-for-the-test-of-gross-moto/",
+      "https://pureportal.coventry.ac.uk/en/publications/associations-of-parental-physical-activity-and-physical-fitness-w/",
+      "https://pureportal.coventry.ac.uk/en/publications/childrens-experiences-of-increasing-competitiveness-in-football-a/",
+      "https://pureportal.coventry.ac.uk/en/publications/comparative-performance-of-anthropometric-indices-in-predicting-c/",
+      "https://pureportal.coventry.ac.uk/en/publications/evaluating-schoolbased-obesity-prevention-interventions-in-6-to-1/",
+      "https://pureportal.coventry.ac.uk/en/publications/exploring-factors-that-impact-playground-design-decisions-and-the/",
+      "https://pureportal.coventry.ac.uk/en/publications/grassroots-football-coaches-knowledge-and-perspectives-of-physica/",
+      "https://pureportal.coventry.ac.uk/en/publications/moving-minds-the-associations-between-movement-and-cognitive-deve/",
+      "https://pureportal.coventry.ac.uk/en/publications/objective-analysis-of-movement-behaviours-and-cardiometabolic-hea/",
+      "https://pureportal.coventry.ac.uk/en/publications/perceptions-attitudes-and-experiences-of-glp-1-receptor-agonists-/",
+      "https://pureportal.coventry.ac.uk/en/publications/physical-activity-bouts-and-sleep-duration-are-key-predictors-of-/",
+      "https://pureportal.coventry.ac.uk/en/publications/prevalence-of-exercise-induced-bronchoconstriction-in-elite-chine/",
+      "https://pureportal.coventry.ac.uk/en/publications/the-colour-of-taste-investigating-flavour-perception-and-preferen/",
+      "https://pureportal.coventry.ac.uk/en/publications/the-effectiveness-of-community-sports-interventions-on-childrens-/",
+      "https://pureportal.coventry.ac.uk/en/publications/the-effects-of-4-weeks-oral-tangeretin-supplementation-on-serum-t/",
+      "https://pureportal.coventry.ac.uk/en/publications/the-relationship-between-physical-technical-and-tactical-skills-p/",
+      "https://pureportal.coventry.ac.uk/en/publications/what-drives-enjoyment-in-grassroots-football-for-children-a-write/"
+    ]
+  }
+]

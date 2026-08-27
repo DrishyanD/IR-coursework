@@ -1,0 +1,14 @@
+========================================================================
+SYSTEM EVIDENCE JSON — GENERATION + HIGHLIGHTS
+========================================================================
+Generated evidence file: D:\Softwarica\IR\CW\backend\docs\evidence\system_evidence.json
+
+Task 1 highlights
+Publication count: 87
+Index stats: {"documents": 87, "vocabulary_size": 4492, "terms_with_postings": 4492, "positional_index_terms": 4271, "sorted_postings": true}
+Recent crawl runs: [{"id": 2, "started_at": "2026-08-21 11:35:17", "finished_at": "2026-08-21 11:42:47", "status": "completed", "pages_fetched": 90, "pages_failed": 0, "robots_blocked": 0, "publications_seen": 87, "publications_inserted": 84, "publications_updated": 0, "publications_rejected": 0, "index_documents": 87, "error_message": null, "trigger_type": "manual", "robots_mode": "override", "publications_changed": 0, "publications_unchanged": 3}, {"id": 1, "started_at": "2026-08-21 11:32:39", "finished_at": "2026-08-21 11:32:58", "status": "completed", "pages_fetched": 4, "pages_failed": 0, "robots_blocked": 2, "publications_seen": 3, "publications_inserted": 3, "publications_updated": 0, "publications_rejected": 0, "index_documents": 3, "error_message": null, "trigger_type": "manual", "robots_mode": "enforce", "publications_changed": 0, "publications_unchanged": 0}]
+
+Task 2 highlights
+Dataset: {"document_count": 141, "category_counts": {"Economics": 60, "Entertainment": 17, "Politics": 64}}
+Evaluation: {"document_count": 141, "feature_count": 3898, "cluster_count": 3, "silhouette_cosine": 0.030728592020392003, "adjusted_rand_index": 0.3383497075059038, "normalized_mutual_information": 0.3410387571077775, "homogeneity": 0.3605173852442274, "completeness": 0.32355708125881383, "v_measure": 0.34103875710777753}
+Cluster sizes: {"0": 50, "1": 53, "2": 38}

@@ -1,0 +1,33 @@
+[
+  {
+    "query": "well-being",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/a-cross-sectional-study-of-postgraduate-students-mental-well-bein/"
+    ]
+  },
+  {
+    "query": "digital yoga",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/"
+    ]
+  },
+  {
+    "query": "students",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/a-cross-sectional-study-of-postgraduate-students-mental-well-bein/"
+    ]
+  },
+  {
+    "query": "postgraduate",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/a-cross-sectional-study-of-postgraduate-students-mental-well-bein/",
+      "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/"
+    ]
+  },
+  {
+    "query": "intervention",
+    "relevant_publication_urls": [
+      "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/"
+    ]
+  }
+]

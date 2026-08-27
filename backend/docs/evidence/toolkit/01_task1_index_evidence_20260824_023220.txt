@@ -1,0 +1,23 @@
+========================================================================
+TASK 1 — INVERTED INDEX EVIDENCE
+========================================================================
+Indexed documents:        87
+Vocabulary size:          4492
+Terms with postings:      4492
+Positional index terms:   4271
+Sorted postings enabled:  True
+
+Readable posting-list examples
+Format: [(document_id, term_frequency), ...]
+
+Term: yoga
+Document frequency: 1
+Postings: [(2, 4)]
+
+Term: student
+Document frequency: 5
+Postings: [(1, 11), (2, 2), (6, 1), (61, 1), (71, 13)]
+
+Term: postgradu
+Document frequency: 3
+Postings: [(1, 10), (2, 4), (62, 1)]

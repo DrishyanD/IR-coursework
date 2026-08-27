@@ -1,0 +1,92 @@
+{
+  "cluster_name_map": {
+    "0": "Entertainment",
+    "1": "Politics",
+    "2": "Economics"
+  },
+  "training_report": {
+    "dataset": {
+      "document_count": 141,
+      "category_counts": {
+        "Economics": 60,
+        "Entertainment": 17,
+        "Politics": 64
+      }
+    },
+    "evaluation": {
+      "document_count": 141,
+      "feature_count": 3898,
+      "cluster_count": 3,
+      "silhouette_cosine": 0.030728592020392003,
+      "adjusted_rand_index": 0.3383497075059038,
+      "normalized_mutual_information": 0.3410387571077775,
+      "homogeneity": 0.3605173852442274,
+      "completeness": 0.32355708125881383,
+      "v_measure": 0.34103875710777753
+    },
+    "cluster_sizes": {
+      "0": 50,
+      "1": 53,
+      "2": 38
+    },
+    "cluster_composition": {
+      "0": {
+        "Economics": 29,
+        "Entertainment": 14,
+        "Politics": 7
+      },
+      "1": {
+        "Economics": 2,
+        "Entertainment": 3,
+        "Politics": 48
+      },
+      "2": {
+        "Economics": 29,
+        "Politics": 9
+      }
+    },
+    "cluster_names": {
+      "0": "Entertainment",
+      "1": "Politics",
+      "2": "Economics"
+    },
+    "top_terms": {
+      "0": [
+        "compani",
+        "extern",
+        "play",
+        "star",
+        "busi",
+        "work",
+        "time",
+        "like",
+        "realli",
+        "uk"
+      ],
+      "1": [
+        "burnham",
+        "minist",
+        "parti",
+        "labour",
+        "prime",
+        "polit",
+        "leader",
+        "elect",
+        "reform",
+        "govern"
+      ],
+      "2": [
+        "price",
+        "iran",
+        "rate",
+        "inflat",
+        "economi",
+        "war",
+        "govern",
+        "cost",
+        "bank",
+        "growth"
+      ]
+    }
+  }
+}

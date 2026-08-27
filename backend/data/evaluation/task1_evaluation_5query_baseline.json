@@ -1,0 +1,284 @@
+{
+  "summary": {
+    "query_count": 5,
+    "mean_latency_ms": 15.72,
+    "median_latency_ms": 9.783,
+    "mrr": 0.5666666666666667,
+    "map": 0.5666666666666667,
+    "precision_at_5": 0.2,
+    "recall_at_5": 0.8,
+    "f1_at_5": 0.31428571428571433,
+    "ndcg_at_5": 0.6261859507142915,
+    "precision_at_10": 0.1,
+    "recall_at_10": 0.8,
+    "f1_at_10": 0.17575757575757578,
+    "ndcg_at_10": 0.6261859507142915
+  },
+  "queries": [
+    {
+      "query": "well-being",
+      "relevant_count": 1,
+      "retrieved_count": 0,
+      "latency_ms": 0.243,
+      "mrr": 0.0,
+      "average_precision": 0.0,
+      "precision_at_5": 0.0,
+      "recall_at_5": 0.0,
+      "f1_at_5": 0.0,
+      "ndcg_at_5": 0.0,
+      "precision_at_10": 0.0,
+      "recall_at_10": 0.0,
+      "f1_at_10": 0.0,
+      "ndcg_at_10": 0.0,
+      "retrieved": []
+    },
+    {
+      "query": "digital yoga",
+      "relevant_count": 1,
+      "retrieved_count": 5,
+      "latency_ms": 10.459,
+      "mrr": 1.0,
+      "average_precision": 1.0,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.33333333333333337,
+      "ndcg_at_5": 1.0,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.18181818181818182,
+      "ndcg_at_10": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/",
+          "title": "A digital yoga-based 'Pause Grow Reflect' intervention for postgraduate researchers: a feasibility randomised controlled trial and embedded qualitative acceptability study",
+          "year": 2026,
+          "score": 0.242694,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/rethinking-digital-healthcare-education-for-frailty/",
+          "title": "Rethinking Digital Healthcare Education for Frailty",
+          "year": 2025,
+          "score": 0.15157,
+          "relevant": false
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-novel-digital-intervention-to-support-mental-and-sexual-wellbei/",
+          "title": "A novel digital intervention to support mental and sexual wellbeing after stroke and brain injury: a feasibility randomised controlled trial",
+          "year": 2026,
+          "score": 0.072365,
+          "relevant": false
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/blockchain-and-homomorphic-based-data-aggregation-for-load-monito/",
+          "title": "Blockchain and homomorphic-based data aggregation for load monitoring and billing in smart grids",
+          "year": 2026,
+          "score": 0.050058,
+          "relevant": false
+        },
+        {
+          "rank": 5,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-review-of-remote-sensing-based-crop-yield-estimation-machine-le/",
+          "title": "A review of remote sensing-based crop yield estimation: machine learning techniques and environmental, algorithmic, and hardware limitations",
+          "year": 2026,
+          "score": 0.027926,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "students",
+      "relevant_count": 1,
+      "retrieved_count": 4,
+      "latency_ms": 9.783,
+      "mrr": 0.5,
+      "average_precision": 0.5,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.33333333333333337,
+      "ndcg_at_5": 0.6309297535714575,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.18181818181818182,
+      "ndcg_at_10": 0.6309297535714575,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/learning-to-sip-tea-intelligently-a-phenomenographic-exploration-/",
+          "title": "\"Learning to sip tea intelligently”: A phenomenographic exploration of midwifery students’ perceptions of emotional intelligence and its relationship to midwifery",
+          "year": 2026,
+          "score": 0.180563,
+          "relevant": false
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-cross-sectional-study-of-postgraduate-students-mental-well-bein/",
+          "title": "A Cross-Sectional Study of Postgraduate Students' Mental Well-Being: Exploring the Relationship Between Mental Well-Being, Perceived Stress, Academic Self-Efficacy, and Self-Efficacy for Self-Regulated Learning",
+          "year": 2026,
+          "score": 0.17862,
+          "relevant": true
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/",
+          "title": "A digital yoga-based 'Pause Grow Reflect' intervention for postgraduate researchers: a feasibility randomised controlled trial and embedded qualitative acceptability study",
+          "year": 2026,
+          "score": 0.114143,
+          "relevant": false
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/why-they-do-not-move-an-explainable-machine-learning-analysis-of-/",
+          "title": "Why they do not move: An explainable machine learning analysis of physical activity barriers in obese adolescents and tool translation",
+          "year": 2026,
+          "score": 0.065575,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "postgraduate",
+      "relevant_count": 2,
+      "retrieved_count": 3,
+      "latency_ms": 7.844,
+      "mrr": 1.0,
+      "average_precision": 1.0,
+      "precision_at_5": 0.4,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.5714285714285715,
+      "ndcg_at_5": 1.0,
+      "precision_at_10": 0.2,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.33333333333333337,
+      "ndcg_at_10": 1.0,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-cross-sectional-study-of-postgraduate-students-mental-well-bein/",
+          "title": "A Cross-Sectional Study of Postgraduate Students' Mental Well-Being: Exploring the Relationship Between Mental Well-Being, Perceived Stress, Academic Self-Efficacy, and Self-Efficacy for Self-Regulated Learning",
+          "year": 2026,
+          "score": 0.1916,
+          "relevant": true
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/",
+          "title": "A digital yoga-based 'Pause Grow Reflect' intervention for postgraduate researchers: a feasibility randomised controlled trial and embedded qualitative acceptability study",
+          "year": 2026,
+          "score": 0.153887,
+          "relevant": true
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-review-of-remote-sensing-based-crop-yield-estimation-machine-le/",
+          "title": "A review of remote sensing-based crop yield estimation: machine learning techniques and environmental, algorithmic, and hardware limitations",
+          "year": 2026,
+          "score": 0.061513,
+          "relevant": false
+        }
+      ]
+    },
+    {
+      "query": "intervention",
+      "relevant_count": 1,
+      "retrieved_count": 10,
+      "latency_ms": 50.271,
+      "mrr": 0.3333333333333333,
+      "average_precision": 0.3333333333333333,
+      "precision_at_5": 0.2,
+      "recall_at_5": 1.0,
+      "f1_at_5": 0.33333333333333337,
+      "ndcg_at_5": 0.5,
+      "precision_at_10": 0.1,
+      "recall_at_10": 1.0,
+      "f1_at_10": 0.18181818181818182,
+      "ndcg_at_10": 0.5,
+      "retrieved": [
+        {
+          "rank": 1,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-effectiveness-of-community-sports-interventions-on-childrens-/",
+          "title": "The effectiveness of community sports interventions on children’s wellbeing: a systematic review and meta-analysis",
+          "year": 2026,
+          "score": 0.092514,
+          "relevant": false
+        },
+        {
+          "rank": 2,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-novel-digital-intervention-to-support-mental-and-sexual-wellbei/",
+          "title": "A novel digital intervention to support mental and sexual wellbeing after stroke and brain injury: a feasibility randomised controlled trial",
+          "year": 2026,
+          "score": 0.075832,
+          "relevant": false
+        },
+        {
+          "rank": 3,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/a-digital-yoga-based-pause-grow-reflect-intervention-for-postgrad/",
+          "title": "A digital yoga-based 'Pause Grow Reflect' intervention for postgraduate researchers: a feasibility randomised controlled trial and embedded qualitative acceptability study",
+          "year": 2026,
+          "score": 0.073209,
+          "relevant": true
+        },
+        {
+          "rank": 4,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/behavioural-determinants-of-dietary-selfmanagement-in-chronic-kid/",
+          "title": "Behavioural Determinants of Dietary Self‐Management in Chronic Kidney Disease: A Theory‐Informed Analysis to Inform Dietetic Interventions",
+          "year": 2026,
+          "score": 0.069113,
+          "relevant": false
+        },
+        {
+          "rank": 5,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/patient-and-clinician-acceptability-of-an-integrated-physiotherap/",
+          "title": "Patient and clinician acceptability of an integrated physiotherapy and nutrition intervention after ICU discharge: a qualitative exploration of a pre-specified co-primary feasibility outcome of the PHOENIX trial",
+          "year": 2026,
+          "score": 0.064724,
+          "relevant": false
+        },
+        {
+          "rank": 6,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/evaluating-schoolbased-obesity-prevention-interventions-in-6-to-1/",
+          "title": "Evaluating School‐Based Obesity Prevention Interventions in 6‐ to 12‐Year‐Old Children: A Scoping Review of All Reported Outcomes and Expert Consultation",
+          "year": 2026,
+          "score": 0.057684,
+          "relevant": false
+        },
+        {
+          "rank": 7,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/changes-in-binge-eating-symptoms-following-an-online-community-ba/",
+          "title": "Changes in binge eating symptoms following an online community-based ultra-processed food addiction intervention: Liberate",
+          "year": 2026,
+          "score": 0.056926,
+          "relevant": false
+        },
+        {
+          "rank": 8,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/physiotherapy-and-optimised-enteral-nutrition-in-the-post-acute-p-2/",
+          "title": "Physiotherapy and optimised enteral nutrition in the post-acute phase of critical illness (PHOENIX): a randomised controlled feasibility trial",
+          "year": 2026,
+          "score": 0.056284,
+          "relevant": false
+        },
+        {
+          "rank": 9,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/the-effects-of-4-weeks-oral-tangeretin-supplementation-on-serum-t/",
+          "title": "The effects of 4-weeks oral tangeretin supplementation on serum testosterone and cortisol levels in sprinters during the winter training season",
+          "year": 2026,
+          "score": 0.05327,
+          "relevant": false
+        },
+        {
+          "rank": 10,
+          "publication_url": "https://pureportal.coventry.ac.uk/en/publications/effects-of-a-peer-support-lifestyle-intervention-on-diabetes-inci/",
+          "title": "Effects of a peer-support lifestyle intervention on diabetes incidence in India (K-DPP): 9-year follow-up of a cluster-randomised, controlled trial",
+          "year": 2026,
+          "score": 0.050405,
+          "relevant": false
+        }
+      ]
+    }
+  ]
+}

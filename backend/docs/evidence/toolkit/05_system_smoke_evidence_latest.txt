@@ -1,0 +1,31 @@
+========================================================================
+FULL SYSTEM — SMOKE / INTEGRATION EVIDENCE
+========================================================================
+System status
+database_exists: True
+publication_count: 87
+has_publications: True
+index_documents: 87
+vocabulary_size: 4492
+index_matches_database: True
+clustering_trained: True
+task1_ready: True
+task2_ready: True
+full_system_ready: True
+
+Task 1 smoke search
+Result count: 5
+1. Rethinking Digital Healthcare Education for Frailty score=0.119210
+2. Development and Evaluation of A Digitally Based Functional Fitness Self-Assessment and Monitoring Tool for Older Adults score=0.086211
+3. The effectiveness of community sports interventions on children’s wellbeing: a systematic review and meta-analysis score=0.084716
+4. Canvas to Change: a pilot study exploring experiences of a creative arts programme supporting youth mental Health score=0.072833
+5. "Learning to sip tea intelligently”: A phenomenographic exploration of midwifery students’ perceptions of emotional intelligence and its relationship to midwifery score=0.072701
+
+Task 2 smoke prediction
+{
+  "cluster_id": 2,
+  "predicted_category": "Economics",
+  "distance_to_centroid": 1.0053980903154758,
+  "second_nearest_distance": 1.0322312315571827,
+  "separation_margin": 0.025995281310397363
+}

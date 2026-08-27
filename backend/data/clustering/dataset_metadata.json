@@ -1,0 +1,46 @@
+{
+  "collected_at": "2026-08-21T08:56:30.176138+00:00",
+  "feeds": [
+    {
+      "category": "Economics",
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml"
+    },
+    {
+      "category": "Economics",
+      "url": "https://feeds.bbci.co.uk/news/business/economy/rss.xml"
+    },
+    {
+      "category": "Entertainment",
+      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
+    },
+    {
+      "category": "Politics",
+      "url": "https://feeds.bbci.co.uk/news/politics/rss.xml"
+    },
+    {
+      "category": "Politics",
+      "url": "https://feeds.bbci.co.uk/news/uk_politics/rss.xml"
+    }
+  ],
+  "sources": [
+    "Economics RSS",
+    "Entertainment RSS",
+    "Politics RSS"
+  ],
+  "total_documents": 141,
+  "category_counts": {
+    "Economics": 60,
+    "Entertainment": 17,
+    "Politics": 64
+  },
+  "duplicates_removed": {
+    "url": 14,
+    "title": 2
+  },
+  "short_entries_removed": 0,
+  "non_meaningful_entries_removed": 0,
+  "economics_filter_rejections": 6,
+  "avg_document_length": 5423,
+  "min_document_length": 117,
+  "max_document_length": 17489
+}

@@ -1,0 +1,35 @@
+========================================================================
+TASK 2 — CLUSTERING EVIDENCE
+========================================================================
+Documents:       141
+Category counts: {'Economics': 60, 'Entertainment': 17, 'Politics': 64}
+TF-IDF features: 3898
+K-Means clusters:3
+
+Evaluation metrics
+Silhouette (cosine): 0.030728592020392003
+Adjusted Rand Index: 0.3383497075059038
+NMI:                 0.3410387571077775
+Homogeneity:         0.3605173852442274
+Completeness:        0.32355708125881383
+V-measure:           0.34103875710777753
+
+Cluster sizes: {'0': 50, '1': 53, '2': 38}
+Cluster names: {'0': 'Entertainment', '1': 'Politics', '2': 'Economics'}
+
+Top terms by cluster
+Cluster 0 (Entertainment): compani, extern, play, star, busi, work, time, like, realli, uk
+Cluster 1 (Politics): burnham, minist, parti, labour, prime, polit, leader, elect, reform, govern
+Cluster 2 (Economics): price, iran, rate, inflat, economi, war, govern, cost, bank, growth
+
+Dataset metadata timestamp: 2026-08-21T08:56:30.176138+00:00
+
+Live new-document prediction
+Input: Inflation remained high while the central bank considered changes to interest rates and economic growth forecasts.
+{
+  "cluster_id": 2,
+  "predicted_category": "Economics",
+  "distance_to_centroid": 0.9867493369088003,
+  "second_nearest_distance": 1.0268785179414286,
+  "separation_margin": 0.03907880078460966
+}
